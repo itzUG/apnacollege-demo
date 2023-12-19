@@ -1,2 +1,2 @@
 # apnacollege-demo
-Git-tutorial
+Git-tutorial College
